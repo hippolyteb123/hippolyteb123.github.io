@@ -1,0 +1,24 @@
+.bg {
+    background-image: url("prospectpark.jpeg");
+
+    height: 100vh;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nyhead {
+    font-size: 3.5em;
+    margin-top: 5%;
+    background-color: #ffcc99;
+    text-align: center;
+}
+
+.p {
+    text-indent: 30px;
+}
+
+body {
+    font-family: 'Lato'
+}
